@@ -1,4 +1,3 @@
-## AutoResizeTableViewCell
 ### Auto Layout UITableViewCell' Height
 ***
 #### Implementation steps and the effect
